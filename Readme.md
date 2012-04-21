@@ -1,10 +1,10 @@
-# vec
+# vectorn
 
-JavaScript dimension-independent Vector library
+JavaScript dimension-independent vector library
 
 ## Installation
 
-    npm install vec
+    npm install vectorn
 
 ## License
 

@@ -4,13 +4,13 @@
     "email": "enrico.marino@email.com",
     "url": "http://onirame.no.de"
   },
-  "name": "vec",
-  "description": "JavaScript dimension-independent Vector library",
+  "name": "vectorn",
+  "description": "JavaScript dimension-independent vector library",
   "version": "0.0.0",
-  "homepage": "https://github.com/onirame/vec",
+  "homepage": "https://github.com/onirame/vectorn",
   "repository": {
     "type": "git",
-    "url": "git://github.com/onirame/vec.git"
+    "url": "git://github.com/onirame/vectorn.git"
   },
   "main": "index.js",
   "engines": {

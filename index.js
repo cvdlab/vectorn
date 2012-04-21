@@ -1,1 +1,1 @@
-module.exports = require('./lib/vec.js');
+module.exports = require('./lib/vectorn.js');
