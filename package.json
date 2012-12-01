@@ -1,16 +1,25 @@
 {
   "author": {
     "name": "Enrico Marino",
-    "email": "enrico.marino@email.com",
-    "url": "http://onirame.no.de"
+    "email": "enrico.marino@email.com"
   },
+  "maintainers": [
+    {
+      "name": "Enrico Marino",
+      "email": "enrico.marino@email.com"
+    },
+    {
+      "name": "Federico Spini",
+      "email": "federico.spini@gmail.com"
+    },
+  ],
   "name": "vectorn",
   "description": "JavaScript dimension-independent vector library",
-  "version": "0.0.0",
-  "homepage": "https://github.com/onirame/vectorn",
+  "version": "0.0.5",
+  "homepage": "https://github.com/cvdlab/vectorn",
   "repository": {
     "type": "git",
-    "url": "git://github.com/onirame/vectorn.git"
+    "url": "git://github.com/cvdlab/vectorn.git"
   },
   "main": "index.js",
   "engines": {

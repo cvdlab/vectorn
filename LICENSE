@@ -1,13 +1,3 @@
-# vectorn
-
-JavaScript dimension-independent vector library
-
-## Installation
-
-    npm install vectorn
-
-## License
-
 (The MIT License)
 
 Copyright (c) 2012 Enrico Marino and Federico Spini
